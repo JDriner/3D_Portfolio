@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kintsugi cup of coffee
+* source:	https://sketchfab.com/3d-models/kintsugi-cup-of-coffee-34c0f28a77844ec2883e5156f5f1ac29
+* author:	TadenStar (https://sketchfab.com/tadenstar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kintsugi cup of coffee" (https://sketchfab.com/3d-models/kintsugi-cup-of-coffee-34c0f28a77844ec2883e5156f5f1ac29) by TadenStar (https://sketchfab.com/tadenstar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
